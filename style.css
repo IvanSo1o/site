@@ -1,0 +1,74 @@
+
+.container
+{
+    height:1100px;
+    width:1000px;
+    margin:5% 20%;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+}
+.image
+{
+    height:170px;
+    width:200px;
+    float:left;
+    background-color: #FFFFFF;
+}
+#header1
+{
+    text-align:center;
+    height:170px;
+    width:800px;
+    background-color:#FFFFFF;
+    float:left;
+}
+.button1
+{
+    background-image:linear-gradient(to bottom, rgb(207, 215, 221), rgb(11, 48, 235));
+    color:#FFFFFF;
+    height: 50px;
+    width:190px;
+    font-size: 15px;
+    font-weight: 10px;
+    border-radius: 30px 5px;
+    padding:0%;
+}
+.button2
+{
+    background:linear-gradient(to bottom left, rgb(207, 215, 221), rgb(11, 48, 235));
+    color:#FFFFFF;
+    height: 60px;
+    width:360px;
+    font-size: 15px;
+    font-weight: 600px;
+    border-radius: 0px 15px 15px;
+    margin: 2px;
+}
+button:hover
+{
+    background:linear-gradient(to bottom left, rgb(239, 240, 234), rgb(11, 48, 235));
+    color:#0000CD;
+}
+.menu1
+{
+    background-color:#0000CD;
+    height:300px;
+    width:1000px;
+    text-align:center;  
+}
+.menu2
+{
+    background-color:#FFFFFF;
+    height:600px;
+    width:400px;
+    float:left;
+    text-align:center;
+}
+.content
+{
+    background-color: #fff;
+    height:600px;
+    width:550px;
+    float:left;
+    text-align:center;
+}
